@@ -68,34 +68,28 @@ STEP 4: <br/>
 
 <p align="center">As you can see, the device was successfully renamed to "Server 2016". The changes took effect after the Virtual Machine was restarted.</p>
 
+<hr width="100%" size="2">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br />
 <br />
 
 <p align="center"> 
-<img src="https://i.imgur.com/M5LQxDG.png" height="70%" width="70%"/> </p>
+STEP 5 (RENAMING HELPDESK DEVICE): <br/>
+<img src="https://i.imgur.com/qzeh3c8.png" height="70%" width="70%"/> </p>
 
 
-<p align="center">As you can see, "ACTIVE DIRECTORY USERS AND COMPUTERS" has been successfully installed, along with many other features. I've also opened it to see whether it works, but the device isn't connected to a domain, so I can't manage any users or computers for now.</p>
+<p align="center">As you can see, the Helpdesk device has been renamed. I have renamed it "DEKSTOP1".</p>
 
+
+<hr width="100%" size="2">
+
+<br />
+
+<p align="center"> 
+STEP 6 (RENAMING CLIENT DEVICE): <br/>
+<img src="https://i.imgur.com/38kv6So.png" height="70%" width="70%"/> </p>
+
+
+<p align="center">As you can see, the Client device has been renamed. I have renamed it "DEKSTOP2".</p>
 
 <a href="https://www.example.com">
   <button>NEXT</button>
