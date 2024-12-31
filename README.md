@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-<p>In this step, I'll rename all of the Virtual Machines I've created for this project. This will make it easy to identify devices within the domain.</p>
+<p>In this section, I'll rename all of the Virtual Machines I've created for this project. This will make it easy to identify devices within the domain.</p>
 
 
 <br />
